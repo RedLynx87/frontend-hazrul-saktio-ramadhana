@@ -23,9 +23,17 @@ Aplikasi Frontend menggunakan **React.js** untuk form pengiriman barang .
 
 ```bash
 git clone https://github.com/username/frontend-hazrul-saktio-ramadhana.git
-cd frontend-hazrul-s-ramadhana
-npm install
-npm run dev
+cd frontend-hazrul-saktio-ramadhana
+```
+### 2. Install Dependencies
 
+```bash
+npm install
+```
+### 3. Jalankan Aplikasi
+
+```bash
+npm run dev
+```
 
 
